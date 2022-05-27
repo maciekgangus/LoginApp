@@ -5,7 +5,7 @@
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#How-to-use)
+  - [How to use](#How-to-use)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
